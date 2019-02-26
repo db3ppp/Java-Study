@@ -1,4 +1,4 @@
-#JAVA STUDY
+# JAVA STUDY
 1. MineSweeper
 ![minesweeper](https://user-images.githubusercontent.com/37920535/53404394-ed743780-39f8-11e9-84e9-bd97796de162.png)
 지뢰찾기 gui 게임
